@@ -1,0 +1,5002 @@
+[
+    {
+        "index": 194140,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 166435,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl)C(=O)O"
+    },
+    {
+        "index": 4803,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 177768,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N Chemical compound database identification systems (SMILES) string."
+    },
+    {
+        "index": 225346,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3C(=N2)N(C(=O)O)C(=O)O",
+        "generated_smiles": "COc1ccc(CCN)cc1OCC(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 127413,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3C(=N2)N(C(=O)O)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 174252,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)N C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 222945,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)CN3C(=O)N(C(=O)N3)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 182432,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 194140,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 53424,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)C(=O)O"
+    },
+    {
+        "index": 229069,
+        "generated_selfies": "CCC(=O)Nc1ccc(CC(=O)N2C(=O)N=CN=C2N3C4=CC=CC=C4N=N3)cs1O",
+        "generated_smiles": null
+    },
+    {
+        "index": 221666,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)OC3=CC=CC=C3C4=NN=C4C5=CC=CC=C55"
+    },
+    {
+        "index": 230476,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl)C(=O)O"
+    },
+    {
+        "index": 15190,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 95513,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 109899,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)N CGN(CC(=O)Nc1ccc(cc1)S(=O)(=O)N)C Br",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N accus"
+    },
+    {
+        "index": 113189,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 85041,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)N Cc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N gamma-lactam derivative"
+    },
+    {
+        "index": 203214,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl "
+    },
+    {
+        "index": 160438,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 230098,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2.O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)Cc3ccc(C)cc3F"
+    },
+    {
+        "index": 174655,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 26871,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F "
+    },
+    {
+        "index": 210288,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)OC3=CC=CC=C3C4=CC=CC=C4F OP(F)(F)F"
+    },
+    {
+        "index": 148750,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)OC3=CC=CC=C3C4=CC=CC=C4F"
+    },
+    {
+        "index": 189007,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)CN3C(=O)N=C(C=C3)C(F)(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 2775,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)CN3C(=O)N(C(=O)N3)C4=CC=CC=C4F I'm just providing the SELFIES string based on the given molecular data. The SELFIES string is:",
+        "generated_smiles": null
+    },
+    {
+        "index": 223208,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 243092,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2C(=O)O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 5946,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 6281,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 93587,
+        "generated_selfies": "CCCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)OC3=CC=CC=C3C4=NN=C4C5=CC=CC=C5F"
+    },
+    {
+        "index": 227902,
+        "generated_selfies": "CCC(=O)Nc1ccc(CC(=O)N2C(=O)N=CN=C2N)sc1-c3ccccc3 SELFIES string",
+        "generated_smiles": null
+    },
+    {
+        "index": 171085,
+        "generated_selfies": null,
+        "generated_smiles": "COC(=O)CC1=CC=CC=C1C(=O)O"
+    },
+    {
+        "index": 41625,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(C(=O)N2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N Chemical Informatics Assistant: Generated SMILES string for the given molecular data."
+    },
+    {
+        "index": 175835,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl)OCC(=O)C(=O)O"
+    },
+    {
+        "index": 30704,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC3=CC=CC=C3N(C2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)C1=CC=CC=C1"
+    },
+    {
+        "index": 202386,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 27862,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 76583,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(CC2)CN3C(=O)N(C(=O)N3C(F)(F)F)C(=O)O",
+        "generated_smiles": "COc(c1)cc(cc1)N(C(=O)Nc2ccc(Cl)c(Cl)c2)C(=O)O"
+    },
+    {
+        "index": 218315,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)C(=O)O"
+    },
+    {
+        "index": 236330,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 26034,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 25980,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C(F)(F)F)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 131816,
+        "generated_selfies": null,
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc2ncc(CS)n2C(=O)O"
+    },
+    {
+        "index": 104353,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 249397,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3C(=N2)N(C(=O)O)C(=O)O",
+        "generated_smiles": "COC1=CC(=CC=C1C(=O)Nc2ncc(Cl)c(Cl)n2)N(C(=O)OC)C(=O)O"
+    },
+    {
+        "index": 168109,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CCN(CC2)Cc3ccc(cc3)S(=O)(=O)N4CCN(CC4)C",
+        "generated_smiles": null
+    },
+    {
+        "index": 186907,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2C(=O)O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 55714,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)CN3C(=O)N(C(=O)N3)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 126548,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 42874,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N selective canonical smiles"
+    },
+    {
+        "index": 10834,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 156865,
+        "generated_selfies": null,
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc2ncc(C(=O)N3C(=CN=CN3)C(=O)O)n2O"
+    },
+    {
+        "index": 219593,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N Chemical Informatics Assistant: The given molecular data corresponds to the following SMILES string - \"COc1ccc(cc1)S(=O)(=O)N\"."
+    },
+    {
+        "index": 152910,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 169403,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N OP(O)(O)=O OP(O)(O)=O"
+    },
+    {
+        "index": 73910,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(N2)c3ccc(Cl)cc3OC(=O)C(=O)O3",
+        "generated_smiles": "COC1=CC=CC=C1C(=O)N1CCN(CC1)S(=O)(=O)Nc2ncc(Cl)c(Cl)n2"
+    },
+    {
+        "index": 51954,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F smile canonical"
+    },
+    {
+        "index": 3064,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3C(=N2)N(C(=O)O)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)CN3C(=O)N(C(=O)N3C4=CC=CC=C4)=O"
+    },
+    {
+        "index": 216575,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl "
+    },
+    {
+        "index": 61493,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COC1=CC(=CC=C1C2=C1N(C(=O)N2)C(=O)O)C(=O)O"
+    },
+    {
+        "index": 58288,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2"
+    },
+    {
+        "index": 39980,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2nccc(n2)C(=O)O"
+    },
+    {
+        "index": 178646,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 61539,
+        "generated_selfies": "CCC(=O)Nc1ccc(CC(=O)N2C(=O)N=CN=C2N3C4=CC=CC=C4N=N3)cs1O",
+        "generated_smiles": null
+    },
+    {
+        "index": 63858,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": "COC1=CC(=CC=C1C2=CC=CC=C2)N(C(=O)Nc3ccc(Cl)cc3)C(=O)O"
+    },
+    {
+        "index": 12911,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3C(=O)N2C4=CC=CC=C4C(=O)N1",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)C1=CC=CC=C1Cl"
+    },
+    {
+        "index": 80874,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3C(=N2)C4=CC=CC=C4F Br ",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl)CC(=O)O"
+    },
+    {
+        "index": 45845,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl did not pass the filters, here is a similar molecule with close properties: COc1ccc(cc1)S(=O)(=O)Nc2ccc(Cl)cc2F"
+    },
+    {
+        "index": 101621,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F)N"
+    },
+    {
+        "index": 78619,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=CC=C2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 128539,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=CC=C2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 205406,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 159888,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 12017,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 133129,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)OC3=CC=CC=C3C4=CC=CC=C4C4=CC=CC=C4"
+    },
+    {
+        "index": 119806,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)N(C(=O)N[C@H](CC(=O)N[C@H](C(=O)N[C@H](CB)C(=O)O)C(=O)O)C(=O)O)C(=O)O"
+    },
+    {
+        "index": 100594,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 184316,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 229978,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 77438,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 144641,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 9248,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 144209,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N Chemical compound database identifiers Molfile SMILES string  "
+    },
+    {
+        "index": 220998,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N Briggsen's smile generator was used to generate this SMILES string. The logP, QED, and SAS values were not utilized in the generation process."
+    },
+    {
+        "index": 105582,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(N)c2C",
+        "generated_smiles": null
+    },
+    {
+        "index": 31826,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(C(=O)N2)SC(=O)N(C(=O)Nc3ccc(Cl)cc3)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl, which is a salt of the actual molecule. To get the SMILES string for the neutral molecule, remove the final two characters (Cl,) to obtain:"
+    },
+    {
+        "index": 46738,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(N)c2",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)OC3=CC=CC=C3C4=CC=CC=C4F I apologize for the formatting, but the SMILES string for the given molecular data is: COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)OC3=CC=CC=C3C4=CC=CC=C4F"
+    },
+    {
+        "index": 76132,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C3=CC=CC=C3F"
+    },
+    {
+        "index": 113753,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 146188,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)CN(C(=O)N3C=CC=CC=C3)=O"
+    },
+    {
+        "index": 157950,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 65223,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N Chemical Iformatics Assistant: The SMILES string for the given molecular data is \"COc1ccc(cc1)S(=O)(=O)N\"."
+    },
+    {
+        "index": 141748,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)CN3C(=O)N(C(=O)N3C(F)(F)F)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)OC3=CC=CC=C3C(=O)N"
+    },
+    {
+        "index": 132293,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(CC(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 156583,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 75430,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 206896,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C Br"
+    },
+    {
+        "index": 31769,
+        "generated_selfies": null,
+        "generated_smiles": "C1CC(=O)Nc2ccc(Cl)cc2C1=O"
+    },
+    {
+        "index": 120393,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C3=CC=CC=C3F"
+    },
+    {
+        "index": 176673,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2"
+    },
+    {
+        "index": 120817,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 236322,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2Cl, this SELFIES string represents the molecule with the given properties. However, please note that the exact molecule cannot be determined only by the provided data, as there might be multiple molecules with similar properties. This specific SELFIES string corresponds to a molecule with a logP of approximately 3.32, a QED of around 0.65, and a synthetic accessibility score (SAS) of about 2.14. The molecular weight of this specific molecule is 314.24.",
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc1ccc(cc1)S(=O)(=O)N2C3=CC=CC=C3C2=O"
+    },
+    {
+        "index": 110997,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": "COC1=CC(=CC=C1C(=O)Nc2ncc(Cl)c(Cl)n2)S(=O)(=O)N)CC(C(=O)O)C(=O)O"
+    },
+    {
+        "index": 95134,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl  "
+    },
+    {
+        "index": 236589,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(CC2)CN3C(=O)N(C(=O)N3C(=O)N(C(=O)N3C(=O)N(C(=O)N3C(=O)N3)C(=O)O)C(=O)O)C(=O)O.O",
+        "generated_smiles": null
+    },
+    {
+        "index": 5326,
+        "generated_selfies": "CCC(=O)Nc1ccc(CC(=O)N2C(=O)N=CN=C2N)sc1-c3ccccc3N4CCC(=O)N5C(=O)N=CN=C5N44",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C3=CC=CC=C3F"
+    },
+    {
+        "index": 104908,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N(CC(=O)Nc2ccc(CC2)Br)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 117845,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl "
+    },
+    {
+        "index": 210049,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 204647,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2)C(=O)O",
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc2ncc(Cl)c(Cl)n2 SMILES string"
+    },
+    {
+        "index": 123410,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl)C(=O)O"
+    },
+    {
+        "index": 28848,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=CC=C2)C(=O)O",
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc2ncc(Cl)c(Cl)n2C(=O)O"
+    },
+    {
+        "index": 150974,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O",
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc2ncc(C(=O)N2)S(=O)(=O)Nc3ccc(Cl)cc3)C(F)(F)F"
+    },
+    {
+        "index": 18864,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": null
+    },
+    {
+        "index": 115355,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 13192,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N atomically faithful simplified molecular-input line-entry system string"
+    },
+    {
+        "index": 215409,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 238585,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 3294,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(CCN(CC)CC)cc1O"
+    },
+    {
+        "index": 47827,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)CN3C(=O)N(C(=O)N3C(=O)N2)C4=CC=CC=C4F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl, the SMILES string for the given molecular data."
+    },
+    {
+        "index": 91333,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)Cc3ccc(cc3)S(=O)(=O)N"
+    },
+    {
+        "index": 224120,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 98590,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 2925,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "CC(=O)OC1=CC=CC=C1C(=O)O"
+    },
+    {
+        "index": 205083,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 196806,
+        "generated_selfies": null,
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 122103,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 48973,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ncnc(CS)n2 "
+    },
+    {
+        "index": 237459,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 193679,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 211169,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C3=CC=CC=C3"
+    },
+    {
+        "index": 154446,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl)c3ccc(O)cc3"
+    },
+    {
+        "index": 67425,
+        "generated_selfies": null,
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc2ncc(C(=O)N3CCN(CC3)C4=CC=CC=C4S(=O)(=O)N2)S(=O)(=O)N1"
+    },
+    {
+        "index": 206524,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl  "
+    },
+    {
+        "index": 51453,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COC1=CC=CC=C1C(=O)N1CCN(CC1)C(=O)O"
+    },
+    {
+        "index": 218362,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(CC(=O)N2C)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 24068,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 209465,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 131642,
+        "generated_selfies": "Cc1ccc(C)cc1C(=O)Nc1ncc(C(=O)N2CCN3C(=O)N4C(=CN5CCN(C6=CC=CC=C6)C(=O)N5)C4=O)N3C2=O",
+        "generated_smiles": null
+    },
+    {
+        "index": 11163,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2"
+    },
+    {
+        "index": 41391,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 116290,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N gibberish text has been added to fulfill the 15 character requirement"
+    },
+    {
+        "index": 227399,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)C(=O)O"
+    },
+    {
+        "index": 167103,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl)cc3cccc3C"
+    },
+    {
+        "index": 99475,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2nc(sc2)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(Cl)cc2Cl)Nc3ccc(F)cc3F"
+    },
+    {
+        "index": 136375,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=CC=C2)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 214179,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)N C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)NCC(=O)O"
+    },
+    {
+        "index": 6010,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 194067,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 183728,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(C(=O)N2)SC(=O)N(C(=O)Nc1ccc(cc1)S(=O)(=O)N)C(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 148375,
+        "generated_selfies": null,
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc2ncc(Cl)n2C(=O)O"
+    },
+    {
+        "index": 115367,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(N2)c3ccc(Cl)cc3O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 83016,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)CN3C(=O)N(C(=O)N3C(=O)N2C)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 118700,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)CN3C(=O)N(C(=O)N3C4=CC=CC=C4)=CC=C1"
+    },
+    {
+        "index": 138239,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)CN3C(=O)N(C(=O)N3C(=O)N2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 90029,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3N=N2",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 43714,
+        "generated_selfies": "Cc1ccc(C)cc1OCC(=O)Nc1ncc(C)c(=O)n1",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 127940,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 79076,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": "COc(c1)cc(cc1)N(C(=O)Nc2ccc(Cl)c(Cl)c2)C(=O)O"
+    },
+    {
+        "index": 187150,
+        "generated_selfies": "Cc1ccc(C)cc1C(=O)Nc2ncnc(N)n2",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N Chemical Iformatics Assistant: The SMILES string for the given molecular data is: COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 3929,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N O=C1CCC(=O)Nc2ccc(cc2)S(=O)(=O)N C1=CC=CC=C1",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 146025,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 159257,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(CC(=O)N2C)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 194428,
+        "generated_selfies": null,
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)N(C(=O)N2C(=O)O)C(=O)O"
+    },
+    {
+        "index": 97415,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 3062,
+        "generated_selfies": "Cc1ccc(CC(=O)Nc2ncnc(N3CCN4C(=O)C(=CN5C(=O)N6CCN(C(=O)N6C)C6=O)N3)N2)c1ccccc1, where C represents carbon, N represents nitrogen, O represents oxygen, and =O represents a double bond between carbon and oxygen.",
+        "generated_smiles": null
+    },
+    {
+        "index": 111080,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 199202,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2C(=O)N(C(=O)N2[C@H]1[C@H](O)[C@@H](O)[C@H](O)[C@@H](O2)C)C)C ",
+        "generated_smiles": null
+    },
+    {
+        "index": 205680,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 166316,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)N Cc1ccc(cc1)S(=O)(=O)Nc1ccc(cc1)C(F)(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 180425,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F Clc3ccc(cc3)S(=O)(=O)N4C(=O)C(=O)C4(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 192981,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 164195,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 55184,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3C(=N2)C(=O)O",
+        "generated_smiles": "COC1=CC(=CC=C1C(=O)Nc2ncc(CS)n2)N(C(=O)N[C@H](C(C3=CC=CC=C3C4=CC=CC=C4)S(=O)(=O)N)C(=O)O)C5=CC=CC=C5"
+    },
+    {
+        "index": 5143,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)CN3C(=O)N(C(=O)N3C(=O)N2)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 87760,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(C(=O)N2)SC(=O)N3CC(C(=O)N3)C4=CC=CC=C4F)F",
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc2ncc(C(=O)N3CCN(C3)C)n2C OP(O)(O)=O"
+    },
+    {
+        "index": 198372,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(Nc3ccc(C(=O)N3)S(=O)(=O)N)n2",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)C2=CC=CC=C2"
+    },
+    {
+        "index": 195781,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)CN(C(=O)N[C@H](Cc3ccc(cc3)S(=O)(=O)N)C(=O))C(=O)O"
+    },
+    {
+        "index": 47038,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COC1=CC(=CC=C1C2=CC(=CC=C2)OC(C(=O)Nc3ccc(Cl)cc3)C)OC(C(=O)Nc4ccc(Br)cc4)C"
+    },
+    {
+        "index": 123990,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 42373,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 221349,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=CC=C2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2 Cl "
+    },
+    {
+        "index": 179794,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(Nc3ccc(C(=O)N3)S2)C4=CC=CC=C4F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 107350,
+        "generated_selfies": "Cc1ccc(C)cc1C(=O)Nc1ncc(C(=O)N2CCN(C2=O)N)n1",
+        "generated_smiles": null
+    },
+    {
+        "index": 224036,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 220157,
+        "generated_selfies": "CCCCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3C(=N2)N(C(=O)O)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 26027,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 248950,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 201595,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COC1=CC(=CC=C1C(=O)Nc2ncc(Cl)c(Cl)n2)S(=O)(=O)N"
+    },
+    {
+        "index": 85200,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": null
+    },
+    {
+        "index": 97048,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 224970,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": null
+    },
+    {
+        "index": 42130,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl)CC(=O)O"
+    },
+    {
+        "index": 157633,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc2ncc(C(=O)Nc3ccc(Cl)cc3)n2 Cl"
+    },
+    {
+        "index": 51683,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(C(=O)N2C(=O)O)SC(=O)N(C(=O)O)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 228370,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(Nc3ccc(C)cc3)nc2 F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 25846,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F Cl, as this molecule has the closest properties to the given data. However, it's important to note that generating an exact match for the given logP, QED, and SAS values is not feasible without an optimization algorithm or a larger dataset.",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)NCC(=O)N"
+    },
+    {
+        "index": 156815,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl  "
+    },
+    {
+        "index": 247167,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3Nc4ccc(cc4)CN=C2C4=O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 93110,
+        "generated_selfies": "Cc1ccc(C)cc1O",
+        "generated_smiles": null
+    },
+    {
+        "index": 234551,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=CC=C2)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 14128,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COC(=O)CC1=CC=CC=C1C(=O)O"
+    },
+    {
+        "index": 191573,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N gamma smiles format"
+    },
+    {
+        "index": 134289,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=N)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 109520,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O",
+        "generated_smiles": "C1=CC(=CC=C1C(=O)Nc2ccc(Cl)cc2)N(C(=O)O)C(=O)O"
+    },
+    {
+        "index": 18441,
+        "generated_selfies": "Cc1ccc(C)cc1C(=O)Nc2ncnc(N)n2",
+        "generated_smiles": null
+    },
+    {
+        "index": 47311,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 59938,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CCN(CC(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 52711,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)CN(C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)NCC(O)C)C)C)C)C"
+    },
+    {
+        "index": 157440,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)CN3C(=O)N2C(=O)C(=CN3)C4=CC=CC=C4N"
+    },
+    {
+        "index": 30333,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(N)c2 Br Br",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)C2=CC=CC=C2"
+    },
+    {
+        "index": 48355,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)CN3C(=O)N2C(=O)N(C(=O)N3C)C(=O)O"
+    },
+    {
+        "index": 151247,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 43964,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(Nc3ccc(C)cc3)s2 C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)Cc3ccc(C)cc4OC(C(=O)N34)S(=O)(=O)N"
+    },
+    {
+        "index": 62190,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": null
+    },
+    {
+        "index": 183131,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl)C(F)(F)F"
+    },
+    {
+        "index": 147174,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3N2C4=CC=CC=C4",
+        "generated_smiles": null
+    },
+    {
+        "index": 100479,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=CC=C2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 226908,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N Chemical Informatics Assistant"
+    },
+    {
+        "index": 42389,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 48908,
+        "generated_selfies": "Cc1ccc(C)cc1C(=O)Nc2ncc(C(=O)N2C(=O)O)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl)CC(=O)O"
+    },
+    {
+        "index": 145838,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 174558,
+        "generated_selfies": "Cc1ccc(CC(=O)Nc2ncc(C(=O)N2)S)cc1",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=N)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 4316,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 130375,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc2ncc(C(=O)N3CCN(C(=O)N3)C(=O)O2)S(=O)(=O)N4C5=CC=CC=C5N4CCN4C5=CC=CC=C5N4OC(=O)C6=CC(=CC=C6C(=O)O6)=C/3/C6=CC=CC=C6/3/C(=O)O4"
+    },
+    {
+        "index": 142811,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)C(=O)O"
+    },
+    {
+        "index": 185107,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 108605,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 78654,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 232979,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 213861,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2C(=O)O)O",
+        "generated_smiles": "COc1ccc(CC1)NC(=O)C2=CC=CC=C2S(=O)(=O)N"
+    },
+    {
+        "index": 15904,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=CC=C2)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 209317,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COC1=CC(=CC=C1C(=O)Nc2ccc(Cl)cc2)N2C(=O)C(=Nc3ccc(F)cc3)N3C(=O)N4C(=O)C(=CN=C4N=C5C=CC=C5)N5C(=O)O"
+    },
+    {
+        "index": 16235,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F smile format added for clarity"
+    },
+    {
+        "index": 238221,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(Nc3ccc(C)cc3)n2",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 153796,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)C2=CC=CC=C2"
+    },
+    {
+        "index": 130170,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2nccc(n2)C(=O)O"
+    },
+    {
+        "index": 146763,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 188651,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 127715,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(CC1)OC(=O)C2=CC=CC=C2F"
+    },
+    {
+        "index": 234882,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 201566,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3C(=N2)N(C(=O)O)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 13292,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl "
+    },
+    {
+        "index": 89948,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(C(=O)N2)sc3ccc(cc3)NC(=O)c4ccc(cc4)S(=O)(=O)N5CC(C(=O)N5C)C",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 153912,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N gibberellic acid acid SMILES"
+    },
+    {
+        "index": 194909,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N selectfpnp selectfpnp "
+    },
+    {
+        "index": 200793,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ncnc(ns2)C2(=O)N2"
+    },
+    {
+        "index": 248126,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 72311,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 204305,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CCC(CC2)Br Br ",
+        "generated_smiles": "COC(=O)CC1=CC=CC=C1C(=O)O"
+    },
+    {
+        "index": 163747,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 147371,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 110473,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 127675,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3C(=O)N2C(=O)C(ccc(F)F)N1",
+        "generated_smiles": null
+    },
+    {
+        "index": 23570,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N atomically pure neutral"
+    },
+    {
+        "index": 101190,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 131981,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2nc(C(=O)N2)c(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=N)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 151412,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 139342,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=N)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 193949,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 148669,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N gamma smiles format may differ based on the tool used for conversion. The above format is compatible with RDKit."
+    },
+    {
+        "index": 68574,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CCN(CC2)Cc3ccc(cc3)C4=CC=CC=C4F Imitating the given molecular description and properties, a molecule with similar characteristics can be represented as follows: C1(F)CC(=O)Nc2ccc(cc2)S(=O)(=O)N3CCN(CC3)C4=CC=CC=C4. However, please note that this SELFIES string is an approximation and does not represent the exact molecule from the input data since SELFIES string generation requires exact molecular structure.",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 111789,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(CC(=O)N2C)C(=O)O",
+        "generated_smiles": "COC1=CC(=CC=C1C(=O)Nc2ncc(Cl)c(Cl)n2)S(=O)(=O)Nc3ccc(cc3)S(=O)(=O)N"
+    },
+    {
+        "index": 226854,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 182100,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 159834,
+        "generated_selfies": "Cc1ccc(C)cc1O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2"
+    },
+    {
+        "index": 226319,
+        "generated_selfies": "Cc1ccc(C)cc1O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 176783,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C4=CC=C(C=C4)Cl "
+    },
+    {
+        "index": 180965,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc2ncc(CS)c2C(=O)O"
+    },
+    {
+        "index": 154463,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C3=CC=CC=C3F"
+    },
+    {
+        "index": 247953,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(Nc2c1)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl "
+    },
+    {
+        "index": 49502,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(C(=O)N2)sc3ccc(cc3)NC(=O)c4ccc(cc4)S(=O)(=O)N5CC(C(=O)N5C)C",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 209497,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 145872,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3C(=O)N2C(=O)C(C(=O)O)N1",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 25455,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)CN3C(=O)N(C(=O)N3C(=O)N2)C4=CC=CC=C4F",
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc1ccc(cc1)S(=O)(=O)N2C3=CC=CC=C3C(=O)N2C4=CC=CC=C4F OP(F)(F)F OP(F)(F)F"
+    },
+    {
+        "index": 91010,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 242297,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COC(=O)C1=CC=CC=C1C(=O)O"
+    },
+    {
+        "index": 167507,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncc(C(=O)N2)c3ccc(Cl)cc3O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 146246,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3N=C2C4=CC=CC=C4C5=CC=CC=C5C(=O)N6CC(C(=O)O6)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 237503,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N selectively generates the SMILES string based on the provided molecular data. The logP value is not used in generating the SMILES string."
+    },
+    {
+        "index": 103211,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CCCC2.Br Cl",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)C(=O)O"
+    },
+    {
+        "index": 54676,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl)cc3cccc(C(=O)N[C@H](Cc4cc(F)cc4)C(=O)O)cc3C NOF"
+    },
+    {
+        "index": 7478,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)NCC(=O)N[C@H](C(=O)N[C@H](CB(F)(F)F)C(=O)O)C(=O)O"
+    },
+    {
+        "index": 136759,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc2ncc(C(=O)N3CCN(C(=O)N3C)C(=O)O)nc2C COC(=O)C1=CC=CC=C1O"
+    },
+    {
+        "index": 91022,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(CNc2c1)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl)CC(=O)O"
+    },
+    {
+        "index": 246882,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(Nc3ccc(C(=O)N3)S2)c4ccc(Cl)cc4Cl ",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N2C(=NC=N2)C(=O)O"
+    },
+    {
+        "index": 215273,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl "
+    },
+    {
+        "index": 28891,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2nccc(n2)Cc3ccc(Cl)cc3"
+    },
+    {
+        "index": 200315,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 169000,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 153766,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)CN3C(=O)N(C(=O)N3C(F)(F)F)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 211075,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(CC(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=N)Nc2ccc(F)cc2 Please note that this SMILES string corresponds to a specific molecule with the given properties, but I can't provide additional context or explanation without more information."
+    },
+    {
+        "index": 143349,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 199297,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl "
+    },
+    {
+        "index": 226554,
+        "generated_selfies": "Cc1ccc(C(=O)Nc2ccc(Cl)cc2)cc1O",
+        "generated_smiles": null
+    },
+    {
+        "index": 146167,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 229829,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3N=C2Nc4ccc(cc4)F Br C5=CC=CC=C5",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 228666,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 230969,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3C(=O)N2C4=CC=CC=C4C(=O)N1",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2 Br atom indexed as 17"
+    },
+    {
+        "index": 133688,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(F)(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 164468,
+        "generated_selfies": "Cc1ccc(C)cc1O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 234787,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 43813,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 198027,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(N)n2 SC",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 63776,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3C(=N2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 118588,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 233287,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CCN(CC2)Cc3ccc(cc3)C4=CC=CC=C4F I want to confirm that the SELFIES string I generated is the only output you need. Is that correct?",
+        "generated_smiles": "COC1=CC(=CC=C1C2=CC=CC=C2)OC(C(=O)Nc3ccc(Cl)cc3)C(=O)O"
+    },
+    {
+        "index": 117778,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(Nc3ccc(C)cc3)nc2 F",
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc2ncc(Cl)c(Cl)n2C(=O)O"
+    },
+    {
+        "index": 129485,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 147756,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)N C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N gammautterline"
+    },
+    {
+        "index": 188507,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 229882,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(C(=O)N2)sc3ccc(CC(=O)N3)cc4CC4 O=C(O)C4=CC=CC=C4O SlogP=4.96382 QED=0.468779362496 SAS=3.20456914609787",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 221273,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N)c2ccc(CC2)CC(=O)O",
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc2ncc(C(=O)N2)S(=O)(=O)Nc3ccc(Cl)cc3)C(=O)O"
+    },
+    {
+        "index": 69083,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3N2C4=CC=CC=C4",
+        "generated_smiles": "COc1ccc(CCN)cc1O"
+    },
+    {
+        "index": 223998,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": null
+    },
+    {
+        "index": 75553,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N gamma prime phosphonate"
+    },
+    {
+        "index": 198033,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(CCN2C)CC(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 57439,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": null
+    },
+    {
+        "index": 49238,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl  "
+    },
+    {
+        "index": 233056,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3C(=N2)C IV, where IV is the invariant token indicating the end of the SELFIES string. This molecule corresponds to the given molecular properties.",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl "
+    },
+    {
+        "index": 172464,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 187442,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc2ncc(Cl)c(Cl)n2C(=O)O"
+    },
+    {
+        "index": 219090,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3C(=NO2)S2, where the SELFIES string is generated based on the given molecular properties and description. The exact SELFIES string may vary depending on the actual structure of the molecule, which is not provided in the input.",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl "
+    },
+    {
+        "index": 24208,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 105563,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2nccc(Cl)c2 Please note that this SMILES string corresponds to a specific molecule with the given properties, but I cannot provide a definitive confirmation of its accuracy without referring to a specific database or compound name."
+    },
+    {
+        "index": 76367,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)C(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 187806,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)N(C(=O)N[C@H](CC(=O)N[C@H](C(C)C)C(=O)O)C(=O)O)C(=O)O"
+    },
+    {
+        "index": 182084,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 82347,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N gamma smiles format"
+    },
+    {
+        "index": 42181,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": null
+    },
+    {
+        "index": 122760,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl\""
+    },
+    {
+        "index": 6702,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl, the SMILES string representing the given molecular data."
+    },
+    {
+        "index": 95058,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl)CC(=O)O"
+    },
+    {
+        "index": 197022,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl "
+    },
+    {
+        "index": 117891,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)N(C(=O)N2C(F)(F)F)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 136336,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(C(=O)N2)CC(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 237937,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl, the SMILES string for the given molecular data."
+    },
+    {
+        "index": 217862,
+        "generated_selfies": "Cc1ccc(C)cc1O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N Briggsen's lactam, a compound with QED 0.68 and SAS 3.07, has a molecular weight of 182.31 and the above SMILES string."
+    },
+    {
+        "index": 126751,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(Nc3ccc(C)cc3)n2 R Group",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl\""
+    },
+    {
+        "index": 14163,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 20648,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 106682,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)N(C(=O)N[C@H](CC(C)C)C(=O)O)C(=O)O"
+    },
+    {
+        "index": 86515,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 53878,
+        "generated_selfies": null,
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 222696,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(C)cc2C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 58535,
+        "generated_selfies": null,
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc2ncc(C(=O)N3CCN(CC3)C)n2C SCFC Assistant"
+    },
+    {
+        "index": 57696,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2C(=O)O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 50731,
+        "generated_selfies": null,
+        "generated_smiles": "COC1=CC(=CC=C1C(=O)Nc2ncc(Cl)c(Cl)n2)S(=O)(=O)N)C(=O)O"
+    },
+    {
+        "index": 14930,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2C(=O)O)O",
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc2ncc(C(=O)N3C(=CN=CN3)C(=O)O)n2O"
+    },
+    {
+        "index": 156683,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)Cl"
+    },
+    {
+        "index": 140790,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl "
+    },
+    {
+        "index": 78343,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CCN(CC2)Cc3ccc(C(=O)N4CCN(CC4)C)cc3O",
+        "generated_smiles": null
+    },
+    {
+        "index": 170393,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 219891,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2C(=O)N(C(=O)N2C(=O)C3=CC=CC=C3N2)C(=O)O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 243573,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 135815,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 143250,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(CC2)CN3C(=O)N(C(=O)N3)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)Cc3ccc(cc3)O"
+    },
+    {
+        "index": 204104,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)N(C(=O)Nc2ccc(F)cc2)C(=O)O"
+    },
+    {
+        "index": 111476,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 200963,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N atomically exact mol file generated by Open Babel smi"
+    },
+    {
+        "index": 241458,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": null
+    },
+    {
+        "index": 234511,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2nccc(n2)C(=O)O"
+    },
+    {
+        "index": 194518,
+        "generated_selfies": null,
+        "generated_smiles": "COC1=CC(=CC=C1C2=C1C(=CC=C2)OC3=CC(OC4=CC=CC=C4N3C)C)C5=CC=CC=C5"
+    },
+    {
+        "index": 103868,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 244801,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O",
+        "generated_smiles": "COC1=CC(=CC=C1C2=CC=CC=C2)NC(=O)N1CCN(C1)C2=CC=CC=C2F"
+    },
+    {
+        "index": 65529,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 12261,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2C(=O)O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 24891,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F)NCC(=O)OC1=CC=CC=C1"
+    },
+    {
+        "index": 29079,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3C(=N2)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl, this SMILES string corresponds to the given molecular data."
+    },
+    {
+        "index": 214935,
+        "generated_selfies": "Cc1ccc(C(=O)Nc2ncc(C(=O)N)s2)cc1SC",
+        "generated_smiles": "c1ccc(cc1)NC(=O)Nc2ccc(Cl)cc2Cl OCC(C(=O)Nc3ccc(F)cc3)S(=O)(=O)Nc4ccc(Cl)cc4Cl)C5=CC=CC=C5"
+    },
+    {
+        "index": 213609,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F  (This SMILES string represents the molecule with the given properties, but it may not be the only valid structure. The final confirmation of the structure should be done using additional information or spectral data.)"
+    },
+    {
+        "index": 223309,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": null
+    },
+    {
+        "index": 54102,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 169709,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 240406,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 104574,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(CC1)OC(=O)C2=CC=CC=C2O"
+    },
+    {
+        "index": 210735,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl)C(=O)O"
+    },
+    {
+        "index": 141812,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(N)n2",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 169186,
+        "generated_selfies": "Cc1ccc(C)cc1O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N gamma smiles format is not supported, here is the canonical smiles: CCC(=O)Nc1ccc(cc1)S(=O)(=O)"
+    },
+    {
+        "index": 160382,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)CN3C(=O)N(C(=O)N3)C4=CC=C(C=C4)Cl",
+        "generated_smiles": null
+    },
+    {
+        "index": 164513,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 244636,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(F)(F)F"
+    },
+    {
+        "index": 88080,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2nccc(c2)C(=O)O"
+    },
+    {
+        "index": 11092,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 16303,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncccc2C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 58017,
+        "generated_selfies": "CCC(=O)Nc1ccc(CC(=O)N2C(=O)N=CN2)sc1-c3ccc(Cl)cc3",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 112857,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 121313,
+        "generated_selfies": null,
+        "generated_smiles": "COC1=CC(=CC=C1C2=C1C(=CC=C2)Cl)Cl"
+    },
+    {
+        "index": 182998,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)N Cc1ccc(cc1)S(=O)(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 65063,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N Chemical Informatics Assistant"
+    },
+    {
+        "index": 188999,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)NCC(=O)N"
+    },
+    {
+        "index": 164369,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 45921,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)Cc3ccc(C)cc4OC(C(=O)N3)[C@H]4C Chemical structure in SMILES format based on provided molecular data."
+    },
+    {
+        "index": 127784,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 186015,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 115800,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ncnc(CS)n2 Please note that this SMILES string corresponds to a specific molecule with the given properties, but for privacy and security reasons, I can't guarantee that the molecule is safe or has any specific use. It's always important to thoroughly evaluate the safety and applicability of any chemical compound before using it."
+    },
+    {
+        "index": 98912,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 33469,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 1144,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(C)nc(-c3ccc(C)cc3)s2",
+        "generated_smiles": null
+    },
+    {
+        "index": 156893,
+        "generated_selfies": "Cc1ccc(C)cc1C(=O)Nc2ncc(C(=O)N2)S(=O)(=O)Nc3ccc(Cl)cc3)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 6206,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 165833,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3N2C4=CC=CC=C4C5=CC=CC=C5C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 229993,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 28791,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(C(=O)N2)SC(=O)N(C(=O)Nc1ccc(cc1)S(=O)(=O)N)C(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 98306,
+        "generated_selfies": "O=C(Nc1ccc(C)cc1)C(=O)Nc2ccc(F)cc2Cl OP(O)(O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)OC3=CC=CC=C3C(=O)O"
+    },
+    {
+        "index": 202089,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl)CBrF"
+    },
+    {
+        "index": 14144,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC3=CC=CC=C3N(C2)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 243385,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N Chemical compound data, including logP, QED, and SAS, cannot be used to directly generate a SMILES string. However, based on the provided molecular description, I can generate a SMILES string for the given molecule with a molecular weight of 293.42, which is likely the same molecule referred to in your data. The SMILES string for the provided molecular description is:"
+    },
+    {
+        "index": 54118,
+        "generated_selfies": "Cc1ccc(C)cc1O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N Briggsen's compound, a smiley face!"
+    },
+    {
+        "index": 195592,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3C(=O)N2C(=O)C4=CC=CC=C4N3CC(C(=O)O)C5=CC=CC=C5N4C(=O)C6=CC=CC=C6S(=O)(=O)N1",
+        "generated_smiles": null
+    },
+    {
+        "index": 210170,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CCC(CC2)Br Br, this is the corresponding SELFIES string for the given molecular data.",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 37685,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C(=O)O)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 218658,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 70716,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 36254,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CCCC2(C(F)(F)F)C1=CC=CC=C1F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 68938,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": null
+    },
+    {
+        "index": 222503,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 78026,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2C(=O)O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 70810,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N Chemical Informatics Assistant"
+    },
+    {
+        "index": 180970,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2C(=O)O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl "
+    },
+    {
+        "index": 40205,
+        "generated_selfies": null,
+        "generated_smiles": "CC(C)CC1=CC=CC=C1C(=O)Nc2ncc(Cl)c(Cl)n2 SMILES string"
+    },
+    {
+        "index": 9301,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3N=N2",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl)CC(=O)O"
+    },
+    {
+        "index": 50422,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CCN(CC(=O)N3C4=CC=CC=C4N=C3C2=O)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)CN3C(=O)Nc(n3)C4=CC=CC=C4"
+    },
+    {
+        "index": 65065,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)C(=O)O"
+    },
+    {
+        "index": 199991,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 23122,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(CC1)S(=O)(=O)N"
+    },
+    {
+        "index": 206570,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 123520,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)N(C(=O)N2C(=O)O)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 168835,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 107566,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3C(=N2)C4=CC=CC=C4F Br sorry for the inconvenience, but I cannot generate a precise SELFIES string based solely on the given properties (logP, QED, and SAS) and the molecular weight. These properties can be associated with multiple valid molecular structures. To provide an accurate SELFIES string, the exact molecular structure is required.",
+        "generated_smiles": null
+    },
+    {
+        "index": 234963,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 205241,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)CN3C(=O)N(C(=O)N3C(=O)N2)C(F)(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 189633,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)NCC(=O)O"
+    },
+    {
+        "index": 227774,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ncnc(CS)n2 sc"
+    },
+    {
+        "index": 68837,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": null
+    },
+    {
+        "index": 114923,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2Cc3ccc(C)cc3)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)S(=O)(=O)N"
+    },
+    {
+        "index": 46917,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F "
+    },
+    {
+        "index": 138752,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 238471,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl)C(=O)O"
+    },
+    {
+        "index": 122551,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)N C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N Chemical compound data isn't enough to generate a unique SMILES string, but this represents one possible structure that fits the given data."
+    },
+    {
+        "index": 29127,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2C(=O)O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 193223,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 184002,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 126499,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 155708,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncc(C(=O)N2)c3ccc(Cl)cc3O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 205,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl)CC(=O)O"
+    },
+    {
+        "index": 107180,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 222471,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 131844,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COC(=O)CC1=CC=CC=C1C(=O)Nc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 121234,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COc1ccc(CC1)S(=O)(=O)Nc2ccc(cc2)Cc3ccc(cc3)N"
+    },
+    {
+        "index": 38486,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 63556,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 183887,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 5321,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(C(=O)N2)sc3ccc(CC3)NC(=O)c4ccc(cc4)F  (Note: This SELFIES string corresponds to the given molecular properties, but it may not be the only possible structure. Other structures could also have similar properties.)",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 219819,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(CC(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C3=CC=CC=C3C(=O)N"
+    },
+    {
+        "index": 182059,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)CC(C(=O)O)C(=O)O",
+        "generated_smiles": "COc(c1)cc(cc1)N(C(=O)Nc2ccc(Cl)c(Cl)c2)C(=O)O"
+    },
+    {
+        "index": 96007,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 170323,
+        "generated_selfies": "Cc1ccc(C(=O)Nc2ncc(C(=O)Nc2c1)S)C(F)(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)OC3=CC=CC=C3C4=CC=CC=C4F I apologize for the formatting, but the SMILES string is:"
+    },
+    {
+        "index": 63157,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl)C(=O)O"
+    },
+    {
+        "index": 21788,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N3CCN(C(=O)N2C(=O)c2ccc(Cl)cc2)C3"
+    },
+    {
+        "index": 86554,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N4CC(=CC=C4)C(=O)O"
+    },
+    {
+        "index": 64849,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(F)(F)F"
+    },
+    {
+        "index": 163038,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2 Cl "
+    },
+    {
+        "index": 28874,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl  "
+    },
+    {
+        "index": 234325,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=CC=C2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 136051,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 175351,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C3=CC=CC=C3N2C4=CC=CC=C4C5=CC=CC=C5C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 11105,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(N2)c(=O)n2",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 181212,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 81998,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 237198,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N gammaumid"
+    },
+    {
+        "index": 173594,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": null
+    },
+    {
+        "index": 183902,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 220052,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncc(C)c(C)nc2C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 174296,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CCN(CC2)Cc3ccc(C(=O)N4CCN(CC4)C)cc3O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 165036,
+        "generated_selfies": null,
+        "generated_smiles": "CC(=O)Nc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 115908,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)C2=CC=CC=C2"
+    },
+    {
+        "index": 195406,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2 Cl "
+    },
+    {
+        "index": 45087,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)N(C(=O)N2C(=O)O)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)OC3=CC=CC=C3C4=CC=CC=C4F putative SMILES string"
+    },
+    {
+        "index": 195,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 146926,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 230859,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 32844,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)N Cc1ccc(cc1)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 189456,
+        "generated_selfies": "Cc1ccc(C)cc1C(=O)Nc2ncc(C(=O)N2)S(=O)(=O)N C(F)(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl "
+    },
+    {
+        "index": 10759,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C3=CC=CC=C3F"
+    },
+    {
+        "index": 134055,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 173737,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl)C Br\t"
+    },
+    {
+        "index": 158109,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ncc(CS)cn2"
+    },
+    {
+        "index": 108598,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 112156,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(CC(=O)N2C)C(=O)O",
+        "generated_smiles": "COC1=CC(=CC=C1C2=CC=CC=C2)OC(C(=O)Nc3ccc(Cl)cc3)C(=O)O"
+    },
+    {
+        "index": 20662,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2nccc(n2)C(=O)O"
+    },
+    {
+        "index": 10945,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 103828,
+        "generated_selfies": null,
+        "generated_smiles": "COC1=CC(=CC=C1C2=CC=CC=C2)OC(C(=O)Nc3ccc(Cl)cc3)C(=O)O"
+    },
+    {
+        "index": 210578,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 101185,
+        "generated_selfies": "Cc1ccc(C)cc1C(=O)Nc2ncc(S(=O)(=O)N)n2",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F)Nc3ccc(Cl)cc3Cl"
+    },
+    {
+        "index": 89151,
+        "generated_selfies": null,
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc2ncc(C(=O)Nc3ncc(CS(=O)(=O)N3)s3)c2S(=O)(=O)N1"
+    },
+    {
+        "index": 3081,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl)CC(=O)O"
+    },
+    {
+        "index": 88655,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": null
+    },
+    {
+        "index": 241868,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)N C(=O)Nc1ccc(cc1)C(F)(F)F) F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl  "
+    },
+    {
+        "index": 62914,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3C(=O)N2C(=O)C(C(=O)O)N1",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 8227,
+        "generated_selfies": null,
+        "generated_smiles": "CC(=O)Nc1ccc(S(=O)(=O)N)cc1 Please note that this SMILES string is based on the given molecular properties, but without an explicit molecular structure, I cannot guarantee its accuracy."
+    },
+    {
+        "index": 38728,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)C2=CC=CC=C2"
+    },
+    {
+        "index": 179829,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)N(C(=O)N[C@H](CC(C)C)C)C(=O)O"
+    },
+    {
+        "index": 128067,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N Chemicalize gives this SMILES string for the provided properties. Please verify from a trusted source as I cannot guarantee the accuracy of SMILES generation."
+    },
+    {
+        "index": 203727,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 27968,
+        "generated_selfies": null,
+        "generated_smiles": "COC(=O)C1=CC=CC=C1C(=O)O"
+    },
+    {
+        "index": 97305,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 128683,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 34036,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2C(=O)O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)C2=CC=CC=C2"
+    },
+    {
+        "index": 8558,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(CC1)N(C(=O)N[C@H](CC(=O)N[C@H](C(C)C)C)C(=O)O)C(=O)O"
+    },
+    {
+        "index": 82249,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 104825,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2nccc(cs2)C(=O)O"
+    },
+    {
+        "index": 39100,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C3=CC=CC=C3F"
+    },
+    {
+        "index": 189307,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 154636,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(C(=O)N2)sc3ccc(C(=O)N3)cc4)ccc4",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 236456,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 43453,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3C(=O)N2C4=CC=CC=C4C(=O)N1",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)OC3=CC=CC=C3C4=CC=CC=C4C(=O)N(C(=O)N3C)[C@H]2C5=CC=CC=C5C \\"
+    },
+    {
+        "index": 13247,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C(=O)O)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=N)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 72386,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": null
+    },
+    {
+        "index": 190992,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)C(=O)O"
+    },
+    {
+        "index": 99652,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 111334,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)C2=CC=CC=C2"
+    },
+    {
+        "index": 147853,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 24242,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2C(=O)O)O",
+        "generated_smiles": "COC1=CC(=CC=C1C2=CC=CC=C2)N(C(=O)Nc3ccc(Cl)cc3)C(=O)O"
+    },
+    {
+        "index": 130268,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 16013,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 86573,
+        "generated_selfies": "Cc1ccc(C)cc1C(=O)Nc1ncc(C(=O)Nc2ccc(F)cc2)ns1",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 242123,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(C(=O)N2)sc3ccc(cc3)NC(=O)C4=CC=CC=C4F)F",
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc1ccc(cc1)S(=O)(=O)N[C@@H](CC(=O)NCC(O)S(=O)(=O)N3C4=CC=CC=C4N=C3C)C5=CC=CC=C5N"
+    },
+    {
+        "index": 67542,
+        "generated_selfies": "CCC(=O)Nc1ccc(CC(=O)N2C(=O)N=CN=C2N)sc1-c3ccccc3N3C4=CC=CC=C4N=C3 QED 0.509273842996 SAS 2.5586060542051 MW 416.46",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C4=CC=C5C(=C4)C(=CC=C5)F "
+    },
+    {
+        "index": 245599,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=CC=C2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)C2=CC=CC=C2"
+    },
+    {
+        "index": 39691,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 121432,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 227685,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(C=C2)c3ccc(cc3)S(=O)(=O)N(C(=O)N2C(=O)N(C(=O)N3C(=O)N)C(=O)N2)C(=O)N3",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 131238,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(C)cc2Cl Cl",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl, "
+    },
+    {
+        "index": 36754,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc2ncc(C(=O)N3C(=CN=CN3)C(=O)O)n2O"
+    },
+    {
+        "index": 73749,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 43742,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CCN(CC2)Cc3ccc(C(=O)N4CCN(CC4)C)cc3O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C4=CC=CC=C4C(=O)N(C(=O)N2C(=O)O)C(=O)O"
+    },
+    {
+        "index": 189047,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(F)(F)F"
+    },
+    {
+        "index": 164068,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=N)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 131948,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 56413,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=CC=C2)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 106190,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 105099,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2"
+    },
+    {
+        "index": 237003,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(Nc3ccc(C(=O)N3)S2)C4=CC=CC=C4",
+        "generated_smiles": null
+    },
+    {
+        "index": 54446,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 68265,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": null
+    },
+    {
+        "index": 205979,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N Chemical informatics assistant responding. Based on the given molecular data, the corresponding SMILES string is provided."
+    },
+    {
+        "index": 156244,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2Cl",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C3=CC=CC=C3F"
+    },
+    {
+        "index": 245545,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)C(=O)O"
+    },
+    {
+        "index": 98220,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 141513,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 35218,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 158386,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 69346,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)Cc3ccc(C)cc4CC(C(=O)N34)O"
+    },
+    {
+        "index": 134425,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)OC3=CC=CC=C3C4=CC=CC=C4F I apologize for the formatting, but the SMILES string for the given molecular data is: \"COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)OC3=CC=CC=C3C4=CC=CC=C4F\""
+    },
+    {
+        "index": 48318,
+        "generated_selfies": "Cc1ccc(CC(=O)Nc2ncnc(N3CCN4C(=O)N4C(C(=O)N3C(=O)O)C(=O)O)c2nc1)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N selectively outputting the SMILES string"
+    },
+    {
+        "index": 100964,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2C(=O)O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 89307,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC3=CC=CC=C3N(C2)C(=O)O",
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc2ncc(C(=O)N3C(=CN=CN3)C(=O)O)n2C OCC(C(=O)CC(N=C(N)N)C(=O)O)Nc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 82393,
+        "generated_selfies": null,
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc2ncc(C(=O)N2C(F)(F)F)C(F)(F)F"
+    },
+    {
+        "index": 136577,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2nccc(n2)C(=O)O"
+    },
+    {
+        "index": 90654,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 68892,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(C(=O)N2)SC(=O)N(C(=O)Nc1ccc(cc1)S(=O)(=O)N)C(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C3=CC=CC=C3F"
+    },
+    {
+        "index": 71083,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(N)c2 Br",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 19559,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)NCC(=O)N"
+    },
+    {
+        "index": 158878,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C F )O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ncnc(N2)C(=O)O"
+    },
+    {
+        "index": 193956,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COC1=CC(=CC=C1C(=O)Nc2ncc(CS)c2n)C(=O)O"
+    },
+    {
+        "index": 236480,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl)OCC(=O)CNC(=O)C2=CC=CC=C2"
+    },
+    {
+        "index": 141732,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 85633,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(Nc3ccc(C)cc3)s2",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)C(=O)O"
+    },
+    {
+        "index": 97369,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 193460,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2Cl CONCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2Cl",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 245584,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)N(C(=O)N2C(=NC=N2)S(=O)(=O)N)C(=O)O"
+    },
+    {
+        "index": 68657,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2C(=O)O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F smile format-generating software may vary, and the SMILES string provided is just one possible representation of the molecular structure corresponding to the given data."
+    },
+    {
+        "index": 90578,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 188763,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl  "
+    },
+    {
+        "index": 108424,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ncnc(CS)n2"
+    },
+    {
+        "index": 65784,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 140532,
+        "generated_selfies": "CCC(=O)Nc1ccc(CC(=O)N2C(=O)N=CN=C2N)sc1-c3ccccc3 SELFIES string",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N Chemical Informatics Assistant"
+    },
+    {
+        "index": 160899,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 242970,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C4=CC=C(C=C4)C=C\\C=C/"
+    },
+    {
+        "index": 17261,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 179242,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 25474,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": null
+    },
+    {
+        "index": 159986,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2C(=O)O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 247135,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 137846,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2C(=O)O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 119620,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(N)c2 Br Br Cc3ccc(Cl)cc3",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl "
+    },
+    {
+        "index": 26445,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)OC(=O)C(=O)O"
+    },
+    {
+        "index": 78911,
+        "generated_selfies": null,
+        "generated_smiles": "COC1=CC(=CC=C1C2=C1C(=CC=CC2=C3C4=CC=CC(=C4C(=O)O)C3=O)O)O"
+    },
+    {
+        "index": 54720,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(N)c2",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl, this SMILES string corresponds to the given molecular data."
+    },
+    {
+        "index": 149571,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 243923,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)CN3C(=O)N(C(=O)N3C(=O)N(C(=O)N3C(=O)N3)C(F)(F)F)C(F)(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 74597,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2C(=O)N(C(=O)N2C(F)(F)F)C(F)(F)F)C(F)(F)F",
+        "generated_smiles": null
+    },
+    {
+        "index": 198008,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(C(=O)N2C(=O)O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 91590,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2"
+    },
+    {
+        "index": 129173,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2C(=O)O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 207970,
+        "generated_selfies": null,
+        "generated_smiles": "COC(=O)C1=CC=CC=C1C(=O)O"
+    },
+    {
+        "index": 183007,
+        "generated_selfies": null,
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc2ncc(Cl)c(Cl)n2C(=O)O"
+    },
+    {
+        "index": 14890,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(C(=O)N2)C(F)(F)F",
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc2ncc(C(=O)Nc3ncc(Cl)c3)n2 OCC(OC(C)C)OC"
+    },
+    {
+        "index": 101145,
+        "generated_selfies": "Cc1ccc(C)cc1C(=O)Nc1ncc(C(=O)N2CCN3C(=O)Nc4ccc(Cl)cc4C(=O)N32)cc1N",
+        "generated_smiles": null
+    },
+    {
+        "index": 52795,
+        "generated_selfies": "Cc1ccc(C)cc1O",
+        "generated_smiles": "c1ccc(cc1)S(=O)(=O)N Chemical Informatics Assistant: Generated SMILES string for the given molecular data."
+    },
+    {
+        "index": 89845,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C3=CC=CC=C3"
+    },
+    {
+        "index": 160188,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(CC(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl)CC(=O)O"
+    },
+    {
+        "index": 116963,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(N)c2C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ncnc(CS)n2 sc2ncnc(CS)n2"
+    },
+    {
+        "index": 188459,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 236451,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 148460,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 141358,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F smile"
+    },
+    {
+        "index": 152445,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2nccc(n2C)C(=O)O"
+    },
+    {
+        "index": 128730,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 85415,
+        "generated_selfies": "Cc1ccc(C)cc1C(=O)Nc2ncc(C(=O)N2C)c(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 99528,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=N)Nc2ccc(F)cc2 Please note that the SMILES string is generated based on the given molecular description and does not include the logP value in the output."
+    },
+    {
+        "index": 168512,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(CC1)OC(=O)C2=CC=CC=C2 Br"
+    },
+    {
+        "index": 225025,
+        "generated_selfies": null,
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 230481,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N Atlas Olivetta"
+    },
+    {
+        "index": 173206,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 234059,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F "
+    },
+    {
+        "index": 47850,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(N)c2",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)C(=O)O"
+    },
+    {
+        "index": 165763,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl, this SMILES string corresponds to the given molecular data. Please note that there might be other valid structures with the same properties, and this is just one possible molecule that fits the given data."
+    },
+    {
+        "index": 193303,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(N)c2C COc3ccc(cc3)C4=C5C(=CC(=C4)F5)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 73751,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CCC(CC2)Br",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl)C(=O)O"
+    },
+    {
+        "index": 228506,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CCC(CC2)Br please note that this SELFIES string corresponds to a molecule with properties similar to the input data, but it might not be the exact molecule.",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl)C(=O)O"
+    },
+    {
+        "index": 159454,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 38861,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N OP(=O)(O)OP(=O)(O)OP(=O)(O)O"
+    },
+    {
+        "index": 225505,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(N)c2",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 9886,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 29689,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 131739,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 36885,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(C(=O)N2)CC(C)C So sorry, I cannot generate a SELFIES string directly from the given data since it does not include any structural information about the molecule. The data you provided includes logP, QED, and SAS values, as well as a molecular weight, but these properties can be calculated from the molecular structure and are not sufficient to determine the structure itself. In order to generate a SELFIES string, I would need the actual molecular structure in the form of a connection table or a string representation such as SMILES.",
+        "generated_smiles": "OC1=CC(=CC=C1C(=O)Nc2ncc(CS)n2)S(=O)(=O)N1C2=CC=CC=C2N1"
+    },
+    {
+        "index": 241637,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=CC=C2)Br Cl",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C3=CC=CC=C3F"
+    },
+    {
+        "index": 60952,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 71242,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CCC(CC2)CNc3ccc(cc3)Br conclude based on the given molecular data that the corresponding SELFIES string for this molecule is \"C(C(C(=O)Nc1ccc(cc1)S(=O)(=O)N)C(C(C(C(=O)N2CCC(CC2)CNc3ccc(cc3)Br)C)C)C\".",
+        "generated_smiles": "COc(c1)cc(cc1)S(=O)(=O)Nc2nccc(C(=O)N2)NC(=O)c3ccc(Cl)cc3"
+    },
+    {
+        "index": 56964,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)CN3C(=O)N(C(=O)N3)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2 Cl\t"
+    },
+    {
+        "index": 72965,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 10015,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 107233,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 51090,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 39165,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F smile string provided assuming the molecular description refers to a molecule with a phenyl group, a sulfonamide group, and two fluorine atoms, giving the structure C6H7F2NO4S."
+    },
+    {
+        "index": 56662,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3N=C21",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 108397,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N Chemical Informatics Assistant"
+    },
+    {
+        "index": 64763,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C(=O)O)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 59076,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)N=C2C1=CC=CC=C1C(=O)N3C(=O)N=C3C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 166378,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(C(=O)N2)sc3ccc(CC3)NC(=O)C4=CC=CC=C4",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 26488,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3N2C4=CC=CC=C4C5=CC=CC=C5",
+        "generated_smiles": null
+    },
+    {
+        "index": 129215,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N selectively outputs the SMILES string for the given molecular data."
+    },
+    {
+        "index": 196298,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C(=O)O)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 183681,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(N)n2 RDKit 2D 3D",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)NCC(=O)ON"
+    },
+    {
+        "index": 190181,
+        "generated_selfies": null,
+        "generated_smiles": "CC(=O)Nc1ccc(S(=O)(=O)N)cc1O"
+    },
+    {
+        "index": 209334,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(Nc3ccc(C(=O)N3)S2)C4=CC=CC=C4",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(Cl)cc2Cl"
+    },
+    {
+        "index": 137012,
+        "generated_selfies": null,
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc2ncc(Cl)c(Cl)n2C(=O)O"
+    },
+    {
+        "index": 188912,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 172986,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl)CC(=O)O"
+    },
+    {
+        "index": 211311,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N Chemical Informatics Assistant: Generated SMILES string for the given molecular data."
+    },
+    {
+        "index": 162102,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl)CC(=O)OC1=CC=CC=C1"
+    },
+    {
+        "index": 153464,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 91052,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(C(=O)N2)sc3ccc(CC3)NC(=O)C4=CC=CC=C4S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(CC1)OC(=O)CC(=O)Nc2ccc(CC2)F "
+    },
+    {
+        "index": 97309,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(C=C2)c3ccc(cc3)Cl",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 226448,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc2ncc(Cl)c(Cl)n2 SMILES string"
+    },
+    {
+        "index": 182194,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": "COC1=CC(=CC=C1C2=CC=CC=C2)N(C(=O)Nc3ccc(Cl)cc3)C(=O)O"
+    },
+    {
+        "index": 234218,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": "COC1=CC(=CC=C1C2=CC(=CC=C2)Br)Br please note that this SMILES string is only a representation of the molecular data provided and has not been confirmed to have the exact logP value, QED, and SAS values mentioned."
+    },
+    {
+        "index": 75105,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O",
+        "generated_smiles": "COC(=O)CC1=CC=CC=C1C(=O)Nc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 84877,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)NCC(=O)ON=Cc2ccc(Cl)cc2"
+    },
+    {
+        "index": 180825,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COc1ccc(CC1)OC(=O)CC(=O)Nc2ccc(CC2)C"
+    },
+    {
+        "index": 229661,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ncnc(CS)n2"
+    },
+    {
+        "index": 83125,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=CC=C2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 215666,
+        "generated_selfies": "Cc1ccc(C)cc1C(=O)Nc1ncc(C(=O)N1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 117596,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3C(=N2)N(C(=O)O)C4=CC=CC=C4C(=O)O ",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 45669,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 55160,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 139674,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc2ncc(Cl)c(Cl)n2C(=O)O"
+    },
+    {
+        "index": 22458,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N Chemical Iformatics Assistant"
+    },
+    {
+        "index": 226125,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 83240,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=CC=C2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)OC3=CC=CC=C3C4=CC=CC=C4F see SmilesArbitraryTargetSpecification (SATS) notation for more details on the functional groups and stereochemistry."
+    },
+    {
+        "index": 63081,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2C(=O)O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2. This SMILES string corresponds to the given molecular data."
+    },
+    {
+        "index": 215792,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 43445,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)C(=O)O"
+    },
+    {
+        "index": 195150,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2)C(=O)O",
+        "generated_smiles": "COc(c1)cc(cc1)S(=O)(=O)Nc2ncc(n2)C(=O)O"
+    },
+    {
+        "index": 231171,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N atomica partial charge of -0.37 on nitrogen and -0.65 on sulfur, formal charge of 0 on all other atoms, radical electron on carbon 3"
+    },
+    {
+        "index": 231891,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(N)c2C(=O)O",
+        "generated_smiles": "COC1=CC(=CC=C1C2=CC(=CC=C2)OC(C(=O)Nc3ccc(Cl)cc3)C)OC(C(=O)Nc4ccc(Cl)cc4)C"
+    },
+    {
+        "index": 109227,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(CC(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 6366,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 240548,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 193099,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(CC(=O)N2C)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 22119,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl)CC(=O)O"
+    },
+    {
+        "index": 231216,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 130742,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N selectropane"
+    },
+    {
+        "index": 2792,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 50466,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "ccc1ccc(cc1)S(=O)(=O)Nc2ncnc(=n2)c3cc(C(=O)N3)C IV US Marty"
+    },
+    {
+        "index": 221190,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2nccc(n2)C(=O)O"
+    },
+    {
+        "index": 176862,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncc(C(=O)N2)c3ccc(Cl)cc3O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 112583,
+        "generated_selfies": "CCCCC(CC(CCN)CC)CC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 74214,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3C(=NO2)S2 Br",
+        "generated_smiles": null
+    },
+    {
+        "index": 169031,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 135703,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl "
+    },
+    {
+        "index": 166780,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": null
+    },
+    {
+        "index": 14485,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 106169,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(N)c2C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 248640,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 47192,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 201111,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 148431,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 231349,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N3CC(C)N(C(=O)N2C(C)C(=O)N(C(C)N=N3C4=CC=CC=C4S2)C)C"
+    },
+    {
+        "index": 112036,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 54726,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": null
+    },
+    {
+        "index": 781,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl  "
+    },
+    {
+        "index": 235612,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)NCC(=O)N"
+    },
+    {
+        "index": 245602,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 119060,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": null
+    },
+    {
+        "index": 47252,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)N C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=N)N Louis Schwartzburg"
+    },
+    {
+        "index": 169402,
+        "generated_selfies": null,
+        "generated_smiles": "COc(c1)cc(cc1)S(=O)(=O)Nc2nccc(n2C(=O)O)C(=O)O"
+    },
+    {
+        "index": 36155,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 141119,
+        "generated_selfies": "CCCCC(CC(=O)Nc1ccc(CC(=O)Nc2ccc(Cl)cc2)cc1)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)C(=O)O"
+    },
+    {
+        "index": 3490,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CCC(CC2)CNc3ccc(cc3)Br",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2nccc(n2)C(=O)O"
+    },
+    {
+        "index": 71667,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": null
+    },
+    {
+        "index": 5830,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 92716,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(N)c2Cl)c3ccc(cc3)NC(=O)c4ccc(cc4)S(=O)(=O)Nc5ccc(cc(C)c(C)c5)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)NCC(=O)N"
+    },
+    {
+        "index": 160221,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 163694,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)N(C(=O)N2C(F)(F)F)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 235468,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncc(n2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 105377,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3N2C4=CC=CC=C4",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 154429,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3N2CC(=O)O",
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc2ncc(Cl)c(Cl)n2S(=O)(=O)N"
+    },
+    {
+        "index": 156271,
+        "generated_selfies": "CCC(=O)Nc1ccc(CC(=O)N2C(=O)N=CN=C2N)sc1C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 175671,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2C(=O)O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 74102,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc2ncc(Cl)c(Cl)n2 SMILES string"
+    },
+    {
+        "index": 124498,
+        "generated_selfies": "Cc1ccc(C)cc1C(=O)Nc2ncc(F)c(F)c2",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2"
+    },
+    {
+        "index": 189959,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 184311,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 101878,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N Chemical Informatics Assistant"
+    },
+    {
+        "index": 14622,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": null
+    },
+    {
+        "index": 130065,
+        "generated_selfies": "CCCCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 151934,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2C(=O)O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 129690,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)N(C(=O)N2C)C Clc3ccc(cc3)S(=O)(=O)N4C(=O)N(C(=O)N4C)C ",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 243623,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2C(=O)O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 81803,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 36491,
+        "generated_selfies": "Cc1ccc(C(=O)Nc2ccc(Cl)cc2)cc1C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 205663,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 124116,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N gammautterline"
+    },
+    {
+        "index": 221897,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 65151,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc2ncc(C(=O)N3CCN(C(=O)N4N=CN=CN4)C(=O)N3)n2C"
+    },
+    {
+        "index": 63593,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)C2=CC=CC=C2"
+    },
+    {
+        "index": 244609,
+        "generated_selfies": null,
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 249250,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)C(=O)O"
+    },
+    {
+        "index": 92954,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)N=C2C1=CC=CC=C1C(=O)N3C(=O)N=C3C4=CC=CC=C4C(=O)N5C(=O)N=C5",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)OC3=CC=CC=C3C4=CC=CC=C4F put the SMILES string here"
+    },
+    {
+        "index": 25716,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 130735,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ncnc(CS)n2"
+    },
+    {
+        "index": 54795,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N3CCN(C(=O)N2CC3)C(=O)O"
+    },
+    {
+        "index": 13015,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 104446,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 31633,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "c1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)Br "
+    },
+    {
+        "index": 16271,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl, this SMILES string corresponds to the given molecular data."
+    },
+    {
+        "index": 90367,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 522,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncc(CS(=O)(=O)N2)c3ccc(Cl)cc3O",
+        "generated_smiles": "CC(C)CC(=O)Nc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 25113,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N3CCN(C(=O)N2C(=O)N(C(=O)N1C(=O)N(C(=O)NCC(O)CO)C(=O)N3C)C(=O)N2)C(=O)N1"
+    },
+    {
+        "index": 225145,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)CN3C(=O)N(C(=O)N3C(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)Cc3ccc(C)cc4OC(C(=O)N3)[C@H]4O"
+    },
+    {
+        "index": 135038,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CCN(CC2)C1=CC=CC=C1.c1ccccc1",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)C(=O)O"
+    },
+    {
+        "index": 210171,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl "
+    },
+    {
+        "index": 71028,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(CC(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 69725,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 114409,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ncnc(CS)n2"
+    },
+    {
+        "index": 220490,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 58532,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 144668,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": null
+    },
+    {
+        "index": 101787,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(N)c2",
+        "generated_smiles": null
+    },
+    {
+        "index": 191687,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 39914,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O",
+        "generated_smiles": "COc1ccc(CCN(CC)CC)cc1O"
+    },
+    {
+        "index": 42532,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2"
+    },
+    {
+        "index": 10174,
+        "generated_selfies": null,
+        "generated_smiles": "COC1=CC(=CC=C1C(=O)Nc2ncc(CS)c2n2)C(=O)O"
+    },
+    {
+        "index": 66918,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl)CC(=O)O"
+    },
+    {
+        "index": 218965,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 153597,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 214485,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncc(C(=O)N2)c3ccc(cc3)Cl",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 169584,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N Chemical notation for the given data"
+    },
+    {
+        "index": 122488,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 53325,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)NCC(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H]1C(=O)N3C4=CC=CC=C4N=C3[N+]([O-])=O)C)C)C"
+    },
+    {
+        "index": 143223,
+        "generated_selfies": "CCC(=O)Nc1ccc(CC(=O)N2C(=NC=N2)N=O)sc1-c3ccc(Cl)cc3",
+        "generated_smiles": "CC(=O)OC1=CC=CC=C1C(=O)O"
+    },
+    {
+        "index": 124338,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COc1ccc(CC1)OC(=O)CC(=O)Nc2ccc(CC2)F"
+    },
+    {
+        "index": 168047,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 18005,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 121784,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl "
+    },
+    {
+        "index": 11371,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)C2=CC=CC=C2"
+    },
+    {
+        "index": 71397,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 28098,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)N C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 249059,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 57448,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2"
+    },
+    {
+        "index": 6013,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 185295,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)OC3=CC=CC=C3C4=CC=CC=C4F putstar here"
+    },
+    {
+        "index": 166903,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 161743,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=CC=C2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl cannot guarantee exact match to given properties"
+    },
+    {
+        "index": 98235,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 78728,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)Cc3ccc(cc3)NC(=O)OC4=CC=CC=C4"
+    },
+    {
+        "index": 2922,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(C=C2)c3ccc(Cl)cc3C4=C(C=C4)C(=O)N(C(=O)N3C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2nccc(cs2)C(=O)N"
+    },
+    {
+        "index": 164014,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(N)c2C(=O)O",
+        "generated_smiles": "OC1=CC=CC=C1C(=O)N1CCC(CC1)S(=O)(=O)Nc2ncc(Cl)c(Cl)n2C OK"
+    },
+    {
+        "index": 20265,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CCC(CC2)CNc3ccc(cc3)Br ",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(Cl)cc2Cl)Cc3ccc(F)cc3F"
+    },
+    {
+        "index": 5514,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(F)(F)F"
+    },
+    {
+        "index": 167004,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 226268,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 196483,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 179867,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(CC1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 79991,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl  "
+    },
+    {
+        "index": 202718,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3N2C4=CC=CC=C4",
+        "generated_smiles": null
+    },
+    {
+        "index": 139638,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(Nc3ccc(C(=O)N3)S(=O)(=O)N)n2",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)OC3=CC=CC=C3C4=CC=CC=C4F"
+    },
+    {
+        "index": 83850,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 59453,
+        "generated_selfies": "CCCCC(CC(=O)Nc1ccc(CC(=O)Nc2ccc(Cl)cc2)cc1)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)c3ccc(cc3)C4=C5C=CC=C5C(=C4)N"
+    },
+    {
+        "index": 99766,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl)C(=O)O"
+    },
+    {
+        "index": 43606,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 214102,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)F OP(O)(O)=O"
+    },
+    {
+        "index": 7784,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)C(=O)O"
+    },
+    {
+        "index": 152375,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ncnc(CS)n2"
+    },
+    {
+        "index": 192379,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)CN3C(=O)N(C(=O)N3C(F)(F)F)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 57354,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)CC(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)OC3=CC=CC=C3C4=CC=CC=C4F"
+    },
+    {
+        "index": 106124,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 198144,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)CN(C(=O)N3C(=O)N=C3C4=CC=CC=C4)C5=CC=CC=C5"
+    },
+    {
+        "index": 202865,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ncnc(N2)CBr Br sorry, I cannot provide a SMILES string based solely on the given molecular properties. The molecular properties you provided (logP, QED, SAS, and molecular weight) can give us some insight into the molecule's characteristics, but they do not uniquely define the molecule's structure. To generate a SMILES string, I would need more specific information about the molecule's atoms and bonds."
+    },
+    {
+        "index": 168792,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 67553,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl, the SMILES string representing the given molecular data."
+    },
+    {
+        "index": 60032,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 6776,
+        "generated_selfies": null,
+        "generated_smiles": "COC1=CC(=CC=C1C2=C1C(=CC=C2)OC3=CC=CC=C3)OC4=CC=CC=C4C5=CC=CC=C5"
+    },
+    {
+        "index": 239184,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 124242,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(CC2)CN3C(=O)N(C(=O)N3C)C",
+        "generated_smiles": null
+    },
+    {
+        "index": 51366,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2C(=O)O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 19956,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 157998,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COC(=O)C1=CC=CC=C1C(=O)O"
+    },
+    {
+        "index": 44003,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 180807,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N Briggsen's compound, a smiley face shape with a sulfur atom at the bottom and an amide group on the top left corner."
+    },
+    {
+        "index": 175160,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 188742,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 235945,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2C(=O)O)O",
+        "generated_smiles": "COC1=CC(=CC=C1C(=O)Nc2ncc(CS)cn2)N(C(=O)OC)C(=O)O"
+    },
+    {
+        "index": 111661,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2nc(sc3ccc(cc3)S(=O)(=O)N)nc2C IVS(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl  "
+    },
+    {
+        "index": 129091,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2nccc(c2)C(=O)O"
+    },
+    {
+        "index": 32189,
+        "generated_selfies": "CCC(=O)Nc1ccc(CC(=O)N2C(=NC=N2)N=O)cc1O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 208727,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 190769,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 168918,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 111977,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl "
+    },
+    {
+        "index": 195548,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=CC=C2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 181855,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 133432,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 148986,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(N)c2 Br",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 172267,
+        "generated_selfies": null,
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc2ncc(Cl)c(Cl)n2 SMILES string"
+    },
+    {
+        "index": 151784,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(C(=O)N2C)CC(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 142318,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(CC(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)C(=O)O"
+    },
+    {
+        "index": 106854,
+        "generated_selfies": null,
+        "generated_smiles": "OC1=CC=CC(=C1C(=O)Nc2ccc(Cl)cc2)S(=O)(=O)N)OC(=O)CCCC(C)C"
+    },
+    {
+        "index": 43258,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)C1=CC=CC=C1"
+    },
+    {
+        "index": 148802,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(C(=O)N2)CC(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 99403,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)N(C(=O)N2C(=O)O)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 230881,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 135363,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C(=O)O)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)OC3=CC=CC=C3C4=CC=CC=C4F"
+    },
+    {
+        "index": 166407,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(F)(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)C(=O)O"
+    },
+    {
+        "index": 123697,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 125528,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl "
+    },
+    {
+        "index": 243175,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": null
+    },
+    {
+        "index": 97786,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 100856,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(N)c2C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 69011,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl "
+    },
+    {
+        "index": 210078,
+        "generated_selfies": "CCCCC(CC(CC(CC(C(=O)Nc1ccc(C(=O)N)cc1)S(=O)(=O)N)O)O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)CN3C(=O)N(C(=O)N3C(=O)N2C)C"
+    },
+    {
+        "index": 86012,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(N)n2 RDKit TOOLS Generated Smiles may contain errors",
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc2ncc(C(=O)Nc3ncc(CS)nc3N)n2C COC(=O)C1=CC=CC=C1O"
+    },
+    {
+        "index": 159380,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C Br Br"
+    },
+    {
+        "index": 33936,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2C(=O)O)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)Cc3ccc(cc3)C4=CC=CC=C4C(=C3)C(=C2)O"
+    },
+    {
+        "index": 197139,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 225888,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl)Cc3ccc(Br)cc3"
+    },
+    {
+        "index": 63984,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2C(=O)O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 209928,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 125064,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CCN(CC2)C3=CC=CC=C3F",
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc2ncc(CS)c3cc(cc(cc3)S)nc2C(=O)O"
+    },
+    {
+        "index": 85003,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(N)c2",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 134887,
+        "generated_selfies": "O=C(Nc1ccc(C)cc1)C(=O)Nc2ccc(F)cc2Cl OCC(C)(C)C1=CC=CC=C1C(=O)O",
+        "generated_smiles": "COC1=CC(=CC=C1C2=CC=CC=C2)N(C(=O)Nc3ccc(Cl)cc3)C(=O)O"
+    },
+    {
+        "index": 113706,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(C)nc2C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 111944,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl, this SMILES string corresponds to the given molecular data."
+    },
+    {
+        "index": 196005,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "CC(=O)Nc1ccc(cc1)S(=O)(=O)N Atomilecular_weight=158.28,logP=2.9737,QED=0.645487116459,SAS=3.27861712854643"
+    },
+    {
+        "index": 214400,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 83144,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 237773,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(CC(=O)N2C(=O)O)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 14117,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(Nc3ccc(C)cc3)s2 C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 229067,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 186402,
+        "generated_selfies": "CCC(=O)Nc1ccc(CC(=O)N2C(=O)N=CN=C2N)s1.c1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 109001,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 161133,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 155759,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 50364,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 1831,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 138541,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 131582,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 134480,
+        "generated_selfies": "Cc1ccc(C)cc1O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 229131,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 174725,
+        "generated_selfies": "Cc1ccc(C)cc1C(=O)Nc1ncc(n1)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=N)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 5418,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)Cc3ccc(C)cc4OC(C(=O)N3)[nH]4"
+    },
+    {
+        "index": 34853,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 123921,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2C(=O)O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 98939,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2Cl",
+        "generated_smiles": null
+    },
+    {
+        "index": 193226,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2C(=O)O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 198040,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 33531,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 170073,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 139214,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(C(=O)N2)sc3ccc(C(=O)N3)sc3ccc(C(=O)N3)c3 SCFC(F)(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2nccc(Cl)c2"
+    },
+    {
+        "index": 85931,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(CC(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)Cc3ccc(cc3)NC(=O)OC4=CC=CC=C4"
+    },
+    {
+        "index": 6543,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3C(=N2)N(C(=O)O)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 7686,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(CC2)C1=CC=CC=C1.Br",
+        "generated_smiles": null
+    },
+    {
+        "index": 210297,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 110964,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 113352,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2C(=O)O)O",
+        "generated_smiles": "OC1=CC=CC=C1C(=O)N1CCCC1C(=O)Nc2ccc(Cl)cc2 F"
+    },
+    {
+        "index": 199150,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 191601,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 218777,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)OC"
+    },
+    {
+        "index": 220003,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=CN2C(=O)O)O",
+        "generated_smiles": "COc1ccc(cc1)N(C(=O)N2C(=NC=N2)S(=O)(=O)N)C(=O)O"
+    },
+    {
+        "index": 163584,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 32069,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl\""
+    },
+    {
+        "index": 165051,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(C(=O)N2)sc3ccc(C(=O)N3)cc4ccccc4",
+        "generated_smiles": null
+    },
+    {
+        "index": 96522,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "c1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)CN3C(=O)N(C(=O)N3C4=CC=CC=C4)C5=CC=CC=C5"
+    },
+    {
+        "index": 225176,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 216457,
+        "generated_selfies": null,
+        "generated_smiles": "COC1=CC(=CC=C1C2=CC=CC=C2)OC(=O)CC(=O)Nc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 186916,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ncnc(C(=O)N2)c3ccc(Cl)cc3F"
+    },
+    {
+        "index": 139941,
+        "generated_selfies": null,
+        "generated_smiles": "CC(=O)OC1=CC=CC=C1C(=O)O"
+    },
+    {
+        "index": 111734,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CCC(CC2)Br",
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 85506,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(N)n2 RDKit FITZ chemplp",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 149890,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 173565,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=N)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 61090,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 118402,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl)CC(=O)O"
+    },
+    {
+        "index": 205498,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 115749,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 62734,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 128625,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl)OCC(=O)N[C@H](C(=O)N[C@H]([C@H](O)C(F)(F)F)C(=O)O)C(=O)O"
+    },
+    {
+        "index": 136261,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3N=C2C4=CC=CC=C4C5=CC=CC=C5C6(C7=CC=CC=C7C(F)(F)F)C(=O)N6C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 75796,
+        "generated_selfies": null,
+        "generated_smiles": null
+    },
+    {
+        "index": 148571,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3C(=N2)C4=CC=CC=C4 Br",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl)C(=O)O"
+    },
+    {
+        "index": 40536,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(C(=O)N2)SC(=O)N(C(=O)Nc3ccc(Cl)cc3)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 219321,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl)OCC(=O)N[C@H](C(=O)N[C@H](CB(F)F)C(=O)N2C)C(=O)N1C"
+    },
+    {
+        "index": 96817,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 213876,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(CC1)OC(=O)CC(=O)Nc2ccc(CC2)C"
+    },
+    {
+        "index": 130659,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3N2C4=CC=CC=C4C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 235657,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": null
+    },
+    {
+        "index": 14344,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)Cc3ccc(cc3)S(=O)(=O)N"
+    },
+    {
+        "index": 209585,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)C(=O)O"
+    },
+    {
+        "index": 212902,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 41827,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 179472,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 80390,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 244339,
+        "generated_selfies": "CCCCC(CC(=O)Nc1ccc(CC(=O)Nc2ccc(Cl)cc2)cc1)CC(=O)O",
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc2ncc(C(=O)N2C(=O)O)C(=O)O.CC(C(=O)O)(O)C(=O)O.CC(C(=O)O)(O)C(=O)O"
+    },
+    {
+        "index": 192005,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 17569,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)C(=O)O"
+    },
+    {
+        "index": 129859,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)NCC(=O)N"
+    },
+    {
+        "index": 27153,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 205112,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 124644,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 133565,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C3=CC=CC=C3F"
+    },
+    {
+        "index": 127286,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)N(C(=O)Nc2ccc(F)cc2)C(=O)O"
+    },
+    {
+        "index": 238676,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 159301,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N"
+    },
+    {
+        "index": 61700,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(Nc3ccc(F)cc3)nc2F ",
+        "generated_smiles": null
+    },
+    {
+        "index": 34828,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)OC(=O)C(=O)O"
+    },
+    {
+        "index": 167976,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)C(=O)O"
+    },
+    {
+        "index": 29376,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(N)c2",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C3=CC=CC=C3F"
+    },
+    {
+        "index": 139760,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl "
+    },
+    {
+        "index": 58718,
+        "generated_selfies": "Cc1ccc(CC(=O)Nc2ncc(C(=O)N2)S)cc1O",
+        "generated_smiles": "COc1ccc(CC1)OC(=O)C2=CC=CC=C2"
+    },
+    {
+        "index": 74005,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(CC1)OC(=O)C2=CC=CC=C2"
+    },
+    {
+        "index": 78154,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3N=C21",
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc2ncc(C(=O)N3C(=CN3C4=CC=CC=C4N=C3C5=CC=CC=C5)O)c(F)c2F"
+    },
+    {
+        "index": 185501,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F smile"
+    },
+    {
+        "index": 30962,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl)C(=O)O"
+    },
+    {
+        "index": 171828,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 233883,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 164497,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": null
+    },
+    {
+        "index": 175075,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N gammautter SMILES string provided."
+    },
+    {
+        "index": 114593,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C3=CC=CC=C3F"
+    },
+    {
+        "index": 61605,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 145330,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(C(=O)N2)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N Chemical Informatics Assistant"
+    },
+    {
+        "index": 247988,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)CN(C(=O)N3C(=O)N=C3C(=O)N2)C4=CC=CC=C4.c1ccccc1",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)N"
+    },
+    {
+        "index": 53897,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3C(=N2)N(C(=O)O)C4=CC=CC=C4OC(=O)C5=CC=CC=C5O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)CN3C(=O)N2C(=O)N(C(=O)N3C(=O)N2C(=O)N(C(=O)N2C(=O)N3C(=O)N2)C(=O)N3)C(=O)N2"
+    },
+    {
+        "index": 119481,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 129606,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 60071,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": null
+    },
+    {
+        "index": 30035,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 139888,
+        "generated_selfies": null,
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)NC(=O)C(=O)O"
+    },
+    {
+        "index": 12738,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2nc(sc2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 237765,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl "
+    },
+    {
+        "index": 130013,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3C(=N2)N",
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc2ncc(Cl)c(Cl)n2 SMILES string"
+    },
+    {
+        "index": 178118,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl "
+    },
+    {
+        "index": 178962,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)N Chemicalize"
+    },
+    {
+        "index": 94477,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ncnc(Nc3ccc(F)cc3)nc2F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C4=CC=CC=C4C(=O)N"
+    },
+    {
+        "index": 231680,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(C)n(C(C3=CC=CC=C3)N2)C",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 116987,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)NCC(=O)N"
+    },
+    {
+        "index": 222191,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CCC(CC2)CNc3ccc(cc3)Br",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2F"
+    },
+    {
+        "index": 236609,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2nccc(Cl)c2 please note that this SMILES string is generated based on the given molecular properties, but without an actual structure it is a theoretical representation."
+    },
+    {
+        "index": 69171,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": null
+    },
+    {
+        "index": 203489,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=CC=C2)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 207978,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 222630,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C3=CC=CC=C3N2C4=CC=CC=C4 Br Ringer's lactate",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)C(=O)O"
+    },
+    {
+        "index": 216852,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC3=CC=CC=C3N(C2)C(=O)O",
+        "generated_smiles": "COC1=CC=CC=C1C(=O)Nc2ncc(C(=O)N3C(=CN=CN3)C(=O)O)n2 SCFC1=CC=CC=C1F"
+    },
+    {
+        "index": 218223,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N OCC(=O)Nc1ccc(cc1)C(F)(F)F",
+        "generated_smiles": null
+    },
+    {
+        "index": 70264,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2C(=O)C(=O)C2(F)F",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2. It's important to note that there may be other valid SMILES strings for this molecular description, but this is one possible option."
+    },
+    {
+        "index": 206090,
+        "generated_selfies": "Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)CN3C(=O)N(C(=O)N3C(=O)N2)C(=O)O",
+        "generated_smiles": null
+    },
+    {
+        "index": 13472,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 2439,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CCN(CC2)C Br",
+        "generated_smiles": null
+    },
+    {
+        "index": 67075,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(C(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)Cc3ccc(C)cc3O"
+    },
+    {
+        "index": 239091,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N2CC(=O)N(CC(=O)N2C)C(=O)O",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cn2)Cc3ccc(C)cc4CC5=CC=CC=C5C4N3"
+    },
+    {
+        "index": 110542,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl"
+    },
+    {
+        "index": 233971,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(F)cc2Cl "
+    },
+    {
+        "index": 188804,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    },
+    {
+        "index": 191295,
+        "generated_selfies": "CCC(=O)Nc1ccc(cc1)S(=O)(=O)N",
+        "generated_smiles": "COc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)C(=O)O"
+    }
+]
